@@ -1,0 +1,42 @@
+* {
+    font-family: Monospace, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+form {
+    align-content: center;
+    width: 400px;
+    background-color: #fa49e2fd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.432);
+    color: white;
+}
+
+input {
+    border-radius: 10px;
+}
+
+p {
+    color: white;
+}
+
+.desain-layout {
+    text-align: center;
+}
+
+.box {
+    width: 250px;
+    border-radius: 10px;
+}
+
+button {
+    border: none;
+    background-color: #14d4ee;
+    color: white;
+    border-radius: 10px;
+}
+
+h6 {
+    float: left;
+}
